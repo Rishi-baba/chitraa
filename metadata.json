@@ -1,0 +1,8 @@
+{
+  "name": "Smart Courts System",
+  "description": "A high-fidelity judicial operations platform prototype featuring role-based dashboards for judges, lawyers, and administrators with cinematic dark UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
